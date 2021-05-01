@@ -36,7 +36,6 @@ app.post("/" , function(req,res){
     }
 })
 
-//This code is working fine
 
 // app.get("/work" , function(req,res){
 //     // to use ejs template and send data with it
